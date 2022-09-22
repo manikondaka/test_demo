@@ -1,1 +1,1 @@
-Hello git welcome
+Hello welcome to the git as a version control system
